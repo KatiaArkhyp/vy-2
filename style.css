@@ -1,0 +1,42 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  
+}
+
+header{
+    background-color:#7e7ac2 ;
+    color: white;
+    text-align:center;
+    padding: 9px;
+    
+}
+.cn{
+    background-color: white;
+    color: blue;
+    padding:5px ;
+    margin: 5px;
+    border-radius:5px;
+}
+.ct{
+    background-color: #9dd1b4;
+    width:70%;
+    text-align: center;
+    padding: 16px;
+    margin: 20px;
+    border-radius: 19px;
+    color:#120d0d;
+}
+main{
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+img{
+    width:200px;
+}
+footer{
+background-color:#9dd1b4;
+padding: 2px;
+text-align: center;
+}
